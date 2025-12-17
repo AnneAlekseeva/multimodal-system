@@ -1,0 +1,9 @@
+{
+  "total_waiting_minutes": 107.0,
+  "idle_loss_unregulated": 0.0,
+  "idle_loss_regulated": 2675.0,
+  "economic_effect": 2675.0,
+  "average_capacity_tons": 13.2,
+  "throughput_tons": 264.0,
+  "productivity_cars_per_hour": 2.5
+}

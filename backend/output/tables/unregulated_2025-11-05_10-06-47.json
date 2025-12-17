@@ -1,0 +1,282 @@
+[
+  {
+    "interval": 14,
+    "arrival_time": "08:14",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "08:30",
+    "section": 1
+  },
+  {
+    "interval": 7,
+    "arrival_time": "08:21",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "08:32",
+    "section": 3
+  },
+  {
+    "interval": 12,
+    "arrival_time": "08:33",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "08:44",
+    "section": 1
+  },
+  {
+    "interval": 12,
+    "arrival_time": "08:45",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "09:01",
+    "section": 3
+  },
+  {
+    "interval": 7,
+    "arrival_time": "08:52",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "09:08",
+    "section": 3
+  },
+  {
+    "interval": 5,
+    "arrival_time": "08:57",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "09:08",
+    "section": 3
+  },
+  {
+    "interval": 8,
+    "arrival_time": "09:05",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "09:16",
+    "section": 3
+  },
+  {
+    "interval": 8,
+    "arrival_time": "09:13",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "09:29",
+    "section": 3
+  },
+  {
+    "interval": 5,
+    "arrival_time": "09:18",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "09:34",
+    "section": 3
+  },
+  {
+    "interval": 3,
+    "arrival_time": "09:21",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "09:32",
+    "section": 2
+  },
+  {
+    "interval": 6,
+    "arrival_time": "09:27",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "09:38",
+    "section": 2
+  },
+  {
+    "interval": 6,
+    "arrival_time": "09:33",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "09:44",
+    "section": 2
+  },
+  {
+    "interval": 5,
+    "arrival_time": "09:38",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "09:54",
+    "section": 1
+  },
+  {
+    "interval": 3,
+    "arrival_time": "09:41",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "09:52",
+    "section": 2
+  },
+  {
+    "interval": 8,
+    "arrival_time": "09:49",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:00",
+    "section": 3
+  },
+  {
+    "interval": 10,
+    "arrival_time": "09:59",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:10",
+    "section": 3
+  },
+  {
+    "interval": 6,
+    "arrival_time": "10:05",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:16",
+    "section": 3
+  },
+  {
+    "interval": 2,
+    "arrival_time": "10:07",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:18",
+    "section": 1
+  },
+  {
+    "interval": 1,
+    "arrival_time": "10:08",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:19",
+    "section": 1
+  },
+  {
+    "interval": 1,
+    "arrival_time": "10:09",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:20",
+    "section": 2
+  },
+  {
+    "interval": 6,
+    "arrival_time": "10:15",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:26",
+    "section": 3
+  },
+  {
+    "interval": 7,
+    "arrival_time": "10:22",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:33",
+    "section": 2
+  },
+  {
+    "interval": 9,
+    "arrival_time": "10:31",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:42",
+    "section": 2
+  },
+  {
+    "interval": 8,
+    "arrival_time": "10:39",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:50",
+    "section": 3
+  },
+  {
+    "interval": 8,
+    "arrival_time": "10:47",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "10:58",
+    "section": 1
+  },
+  {
+    "interval": 9,
+    "arrival_time": "10:56",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:07",
+    "section": 2
+  },
+  {
+    "interval": 5,
+    "arrival_time": "11:01",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:12",
+    "section": 2
+  },
+  {
+    "interval": 5,
+    "arrival_time": "11:06",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:17",
+    "section": 3
+  },
+  {
+    "interval": 8,
+    "arrival_time": "11:14",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:25",
+    "section": 3
+  },
+  {
+    "interval": 6,
+    "arrival_time": "11:20",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:31",
+    "section": 3
+  },
+  {
+    "interval": 7,
+    "arrival_time": "11:27",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:38",
+    "section": 2
+  },
+  {
+    "interval": 10,
+    "arrival_time": "11:37",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:48",
+    "section": 2
+  },
+  {
+    "interval": 5,
+    "arrival_time": "11:42",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "11:53",
+    "section": 2
+  },
+  {
+    "interval": 26,
+    "arrival_time": "12:08",
+    "car_type": "IVECO",
+    "service_time": 11.0,
+    "departure_time": "12:19",
+    "section": 3
+  },
+  {
+    "interval": 45,
+    "arrival_time": "12:53",
+    "car_type": "DAF",
+    "service_time": 16.0,
+    "departure_time": "13:09",
+    "section": 1
+  }
+]

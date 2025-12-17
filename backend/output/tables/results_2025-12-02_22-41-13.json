@@ -1,0 +1,10 @@
+{
+  "total_waiting_unregulated_min": 11069.0,
+  "total_waiting_regulated_min": 11069.0,
+  "idle_loss_unregulated_rub": 55345.0,
+  "idle_loss_regulated_rub": 55345.0,
+  "economic_effect_rub": 0.0,
+  "average_capacity_tons": 13.2,
+  "throughput_tons": 462.0,
+  "productivity_cars_per_hour": 4.38
+}

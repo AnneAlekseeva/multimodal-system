@@ -1,0 +1,9 @@
+{
+  "total_waiting_minutes": 569,
+  "loss_unregulated": 0.0,
+  "loss_regulated": 2845.0,
+  "effect": -2845.0,
+  "avg_capacity": 4.6,
+  "throughput": 161.0,
+  "productivity": 4.38
+}

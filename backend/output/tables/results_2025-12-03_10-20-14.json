@@ -1,0 +1,10 @@
+{
+  "total_wait_unregulated": 291.0,
+  "total_wait_regulated": 13.0,
+  "idle_loss_unregulated": 7275.0,
+  "idle_loss_regulated": 325.0,
+  "economic_effect": 6950.0,
+  "average_capacity": 13.2,
+  "throughput": 462.0,
+  "productivity": 4.38
+}
